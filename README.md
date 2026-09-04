@@ -1,6 +1,6 @@
 # Hi, I'm Yoganayaki T 👋
 
-### 🎓 B.Tech Information Technology Student | Python | IoT | Embedded Systems
+### 💻 B.Tech Information Technology Graduate | Python | IoT | Embedded Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -10,38 +10,47 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-I'm a **final-year B.Tech Information Technology student** with a strong foundation in **Python programming, IoT systems, and embedded technologies**.
+I'm a **B.Tech Information Technology graduate** with a strong foundation in
+**Python programming, IoT systems, embedded technologies, and software development**.
 
-I enjoy building practical technology solutions involving **sensor integration, real-time monitoring, automation, and AI-based applications**, with a focus on solving real-world engineering problems.
+I enjoy building practical technology solutions involving **sensor integration,
+real-time monitoring, automation, and AI-based applications**, with a focus on
+solving real-world engineering problems.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 **B.Tech Information Technology** — Adithya Institute of Technology, Coimbatore
+- 🎓 **B.Tech Information Technology Graduate**
+- 🏫 **Adithya Institute of Technology, Coimbatore**
 - 📅 **2022 – 2026**
 - 📊 **CGPA: 8.0**
 - 🐍 Programming: **Python, Java**
 - 🔧 Embedded & IoT: **ESP32, Sensors, GPS/GSM**
 - 🧠 Strong in **Problem Solving, Analytical Thinking, Debugging & Troubleshooting**
-- 🤝 Comfortable working independently and in teams
+- 🤝 Effective team collaboration
 - 🌱 Interested in **Software Development, IoT and AI-based Applications**
+- 🚀 Open to opportunities in the technology industry
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming
 
-`Python` `Java` `Data Structures` `OOP`
+`Python` `Java` `Data Structures` `Object-Oriented Programming (OOP)`
 
-### 🔌 IoT & Embedded
+### 🔌 IoT & Embedded Systems
 
 `ESP32` `IoT System Design` `Sensor Integration` `GPS` `GSM`
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
 `GitHub` `Microsoft Excel` `Microsoft Word` `Microsoft PowerPoint`
+
+### 🧠 Core Competencies
+
+`Problem Solving` `Analytical Thinking` `Debugging` `Troubleshooting` `Attention to Detail`
 
 ---
 
@@ -51,44 +60,79 @@ I enjoy building practical technology solutions involving **sensor integration, 
 
 **Embedded Systems / IoT**
 
-- Designed a real-time gas detection system using the ESP32 microcontroller.
-- Integrated MQ-series gas sensors to detect hazardous gases such as **CO, CH4 and smoke**.
-- Implemented continuous gas-concentration monitoring.
-- Added automatic alerts to improve early hazard detection.
+- Designed and implemented a real-time gas detection system using the
+  **ESP32 microcontroller**.
+- Integrated MQ-series gas sensors to detect hazardous gases such as
+  **CO, CH4, and smoke**.
+- Developed continuous monitoring for gas concentration levels.
+- Implemented automatic alerts to improve early hazard detection.
+
+---
 
 ### 🪖 Smart Helmet for Accident Detection & Location Tracking
 
 **IoT / GPS-GSM Integration**
 
-- Developed an IoT-based smart helmet capable of detecting accidents in real time.
+- Developed an IoT-based smart helmet capable of detecting accidents in
+  real time.
 - Integrated **GPS and GSM modules**.
 - Automatically transmits the rider's real-time location during an emergency.
 - Enables automated location alerts to designated contacts.
+
+---
 
 ### 🔐 AI-Based Medical Image Security System
 
 **AI / Data Security**
 
-- Built an AI-based system to secure and manage access to sensitive medical images.
-- Implemented encryption techniques to protect medical image data.
+- Built an AI-based system to secure and manage access to sensitive
+  medical images.
+- Implemented encryption techniques for medical image data.
 - Applied AI-powered authentication methods.
-- Strengthened image privacy and access control.
+- Strengthened image privacy protection and access control.
+
+---
 
 ### 🕐 Digital Clock Application
 
 **Python / GUI Development**
 
-- Developed a GUI-based digital clock application using Python.
+- Developed a GUI-based digital clock application using **Python**.
 - Displays real-time system time.
-- Designed a simple, clear and user-friendly interface.
+- Designed a simple and user-friendly interface focused on clarity and ease of use.
+
+---
 
 ### 🎮 Tic Tac Toe Game
 
 **Python / Game Development**
 
-- Built an interactive two-player Tic Tac Toe game.
+- Built an interactive two-player Tic Tac Toe game using **Python**.
 - Implemented complete game logic.
-- Added win/draw detection and user interaction handling.
+- Added win and draw detection.
+- Implemented user interaction handling.
+
+---
+
+## 🎓 Education
+
+### B.Tech — Information Technology
+
+**Adithya Institute of Technology, Coimbatore**
+
+**2022 – 2026 | CGPA: 8.0**
+
+### Higher Secondary Certificate (HSC)
+
+**Sowdambikaa Matric Higher Secondary School**
+
+**2021 – 2022 | 76%**
+
+### Secondary School Leaving Certificate (SSLC)
+
+**Sowdambikaa Matric Higher Secondary School**
+
+**2019 – 2020 | 96%**
 
 ---
 
@@ -101,18 +145,18 @@ I enjoy building practical technology solutions involving **sensor integration, 
 
 ## 🎯 Career Objective
 
-To build a career in the technology industry where I can apply my **programming, IoT and problem-solving skills** to develop practical solutions and continuously grow as a technology professional.
+To begin a professional career in the technology industry where I can apply my
+**programming, IoT, embedded systems, and problem-solving skills** to develop
+practical solutions while continuously learning and growing as a technology professional.
 
 ---
 
-## 🌱 Areas of Interest
+## 🌟 Strengths
 
-- Software Development
-- Python Development
-- Internet of Things (IoT)
-- Embedded Systems
-- AI-based Applications
-- Problem Solving
+- Strong communication and listening skills
+- Ability to work well under pressure
+- Effective team collaboration
+- Adaptability and willingness to learn
 
 ---
 
